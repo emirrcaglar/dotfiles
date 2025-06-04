@@ -1,0 +1,9 @@
+# ignore everything in repository root
+/*
+
+# folders to not ignore
+!/hypr/
+!/kitty/
+!/nvim/
+!/waybar/
+!/wofi/
