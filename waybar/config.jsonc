@@ -106,8 +106,8 @@
         // "icon-size": 21,
         "spacing": 10
     },
-    "clock": {
-        "timezone": "Turkey",
+    "clock": {:
+        "timezone": "Europe/Istanbul",
         "tooltip-format": "<big>{:%Y %B}</big>\n<tt><small>{calendar}</small></tt>",
         "format-alt": "{:%d-%m-%Y}",
     },
