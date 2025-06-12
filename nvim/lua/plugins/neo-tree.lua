@@ -31,6 +31,7 @@ return {
     -- Set keymap to toggle Neo-tree
     vim.keymap.set("n", "<C-n>", ":Neotree toggle<CR>", { silent = true, noremap = true })
     vim.keymap.set("n", "<Tab>", ":bnext<CR>")
+    vim.keymap.set("n", "<Leader>w", ":br<CR>")
     vim.keymap.set("n", "<S-Tab>", ":bprev<CR>")
 
     -- Apply Neo-tree setup with the provided options
