@@ -1,0 +1,21 @@
+# Ignore everything at the root level
+/*
+
+# But allow these specific folders
+!/hypr/
+!/kitty/
+!/nvim/
+!/waybar/
+!/wofi/
+!/ranger/
+!/neofetch/
+
+# And allow their contents (important!)
+!hypr/**
+!kitty/**
+!nvim/**
+!waybar/**
+!wofi/**
+!ranger/**
+!neofetch/**
+
