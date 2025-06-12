@@ -6,7 +6,6 @@ if pgrep -x "waybar" > /dev/null; then
     pkill -x "waybar"
 else
     # If not running, start waybar
-    waybar &
 fi
 
 
