@@ -1,11 +1,11 @@
+<<<<<<< HEAD
 # ignore everything in repository root
 /*
+*secret*
+*.pem
+*.key
+credentials
 
-# folders to not ignore
-!/hypr/
-!/kitty/
-!/nvim/
-!/waybar/
-!/wofi/
-!/ranger/
-!/taskwarrior/
+.DS_Store
+.cache/
+>>>>>>> master
