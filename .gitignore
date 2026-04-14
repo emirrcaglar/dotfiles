@@ -1,0 +1,7 @@
+*secret*
+*.pem
+*.key
+credentials
+
+.DS_Store
+.cache/
